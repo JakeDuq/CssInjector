@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <CustomAction
+        Title="HelloWorld"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ClientSideComponentId="F8A57DD3-8076-486B-9F8B-C951753F4410"
+        ClientSideComponentProperties="{&quot;cssurl&quot;:&quot;<ENTER THE CSS FILE LOCATION HERE>&quot;}">
+    </CustomAction>
+</Elements>
